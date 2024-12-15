@@ -1,0 +1,78 @@
+/*home */
+body{
+    background-color: rgb(201, 248, 199);
+}
+.logo{
+    width: 60px;
+}
+.navbar{
+    background-color: rgb(5, 158, 18);
+    border-radius: 2px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+}
+p{
+    font-size: 18px;
+}
+.active{
+    border-bottom: 3px solid rgb(255, 255, 255);
+    border-top: 3px solid rgb(255, 255, 255);
+}
+.home-p{
+    width: 30px;
+    height:  400px;
+}
+h1 {
+    font-size: clamp(2rem, 10vw, 4rem);
+}
+
+.m h3{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+.photoss{
+    width: 1000px;
+    height: 300px;
+    }
+
+p{
+    border: 1px solid black;
+    padding: 10px;
+}
+.photosss{
+    border: 1px solid black;
+    padding: 10px;
+    padding-bottom: 70px;
+}
+
+    
+
+
+
+/* About */ 
+
+.ozamiz-img{
+width: 80rem;
+border-radius: 5px;
+}
+.photos{
+width: 1000px;
+}
+
+
+/* gallery */ 
+.photos{
+    width: 700px;
+    height: 400px;
+}
+.about p{
+    margin-top: 10px;
+    font-size: 25px;
+}
